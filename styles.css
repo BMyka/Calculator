@@ -50,11 +50,8 @@ body {
     padding: 0 16px;
     box-sizing: border-box;
   }  
-  /* Add hover effects to the buttons */
   .square:hover {
-    /* Lighten the background color on hover */
     background: linear-gradient(to bottom, #90caf9, #64b5f6);
-    /* Increase the size of the box-shadow on hover */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
   }
   
